@@ -6,3 +6,6 @@ yarn-error.log
 
 # Build directory
 /public
+
+# Files created by OSX
+* .DS_store
