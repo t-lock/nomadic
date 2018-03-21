@@ -8,4 +8,4 @@ yarn-error.log
 /public
 
 # Files created by OSX
-* .DS_store
+*.DS_store
